@@ -50,8 +50,8 @@ header .nav-urls a {
     background-blend-mode: color;
     background: rgba(0, 0, 0, 1);
     background: radial-gradient(
-    85.9% 85.9% at 50% 14.1%,
-    rgba(41, 48, 61, 0.0001) 0%,
+    85.9% 60% at 50% 14.1%,
+    rgba(20, 25, 34, 0) 0%,
     #071629 100%
     );
     color: white;
@@ -161,7 +161,7 @@ main {
 .presenter-section {
     /* position: absolute; */
     background-color: #c271ff;
-    padding: 6%;
+    padding: 9%;
 }
 .presenter-block {
     display: flex;
